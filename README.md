@@ -1,4 +1,4 @@
-# Quick sort algorithm implemented with Assembly
+# Quick sort with Assembly
 Supports negative numbers. Simply input the array; *No need to enter the length of the array*.
 To run the program, simple put these 3 files in the same directory, and execute the following command: `nasm -f elf64 ./a.asm && ld -o ./a -e _start ./a.o&& ./a`
 
